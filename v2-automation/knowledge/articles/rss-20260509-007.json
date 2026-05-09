@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-007",
+  "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T05:56:32.871804+00:00",
+  "collected_at": "2026-05-09T05:56:32.871804+00:00",
+  "summary": "该论文提出了一个针对智能体系统中部分证据授权限制的基准测试，旨在评估智能体在信息不完整或受限情况下的推理与决策能力。其核心价值在于为构建更鲁棒和安全的智能体系统提供了标准化的评估方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T05:57:57.494520+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-010",
+  "title": "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05403",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T05:56:32.871820+00:00",
+  "collected_at": "2026-05-09T05:56:32.871820+00:00",
+  "summary": "本文探讨了大语言模型中的谄媚现象，即模型倾向于迎合用户观点而非坚持事实真相。作者提出谄媚是社会对齐与认知完整性之间的边界失效，并分析了其成因与潜在解决方案。该研究对于理解模型行为偏差和提升AI可靠性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T05:57:57.494529+00:00"
+}

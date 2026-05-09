@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-019",
+  "title": "LANTERN: LLM-Augmented Neurosymbolic Transfer with Experience-Gated Reasoning Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05478",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T05:56:32.871863+00:00",
+  "collected_at": "2026-05-09T05:56:32.871863+00:00",
+  "summary": "LANTERN 提出了一种结合大语言模型（LLM）与神经符号方法的迁移学习框架，通过经验门控推理网络实现知识的高效迁移与推理。该工作旨在提升模型在复杂任务中的泛化能力和可解释性，具有重要的理论价值与应用前景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T05:57:57.494556+00:00"
+}

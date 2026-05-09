@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-005",
+  "title": "Understanding Annotator Safety Policy with Interpretability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05329",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T05:56:32.871757+00:00",
+  "collected_at": "2026-05-09T05:56:32.871757+00:00",
+  "summary": "本文探讨了如何通过可解释性技术来理解标注员安全政策，旨在提升AI系统在数据标注过程中的安全性和透明度。核心价值在于为AI安全实践提供方法论指导，帮助识别和缓解标注环节中的潜在风险。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T05:57:57.494512+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-001",
+  "title": "AI is breaking two vulnerability cultures",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-09T05:56:31.368653+00:00",
+  "collected_at": "2026-05-09T05:56:31.368653+00:00",
+  "summary": "该文章探讨了AI如何打破两种漏洞文化，即传统安全漏洞与AI系统特有漏洞之间的界限。核心价值在于揭示AI技术对现有安全范式的冲击，以及需要新的方法来应对混合型威胁。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T05:57:57.494500+00:00"
+}

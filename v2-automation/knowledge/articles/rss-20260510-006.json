@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260510-006",
+  "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-10T09:28:27.343092+00:00",
+  "collected_at": "2026-05-10T09:28:27.343092+00:00",
+  "summary": "该文章介绍了在Open ASR排行榜中添加反作弊机制（Benchmaxxer Repellant）的方法，旨在防止模型通过过度优化特定测试集来获得不公平的高分。核心价值在于提升排行榜的公平性和可靠性，确保评估结果真实反映模型的泛化能力。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-10T09:29:57.908844+00:00"
+}

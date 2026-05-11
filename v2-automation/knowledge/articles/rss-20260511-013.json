@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-013",
+  "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06761",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:21:32.946537+00:00",
+  "collected_at": "2026-05-11T11:21:32.946537+00:00",
+  "summary": "Weblica 提出了一种可扩展且可复现的训练环境，用于视觉网络代理。该环境旨在支持大规模、标准化的代理训练与评估，提升视觉网络代理的鲁棒性和泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T11:23:09.436625+00:00"
+}

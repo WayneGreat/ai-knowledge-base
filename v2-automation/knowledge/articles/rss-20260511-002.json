@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-002",
+  "title": "Local AI needs to be the norm",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-11T11:21:31.642202+00:00",
+  "collected_at": "2026-05-11T11:21:31.642202+00:00",
+  "summary": "该内容主张本地化AI应成为常态，强调在设备端运行AI模型的重要性，以提升隐私保护和离线可用性。核心价值在于推动AI技术从云端向边缘端迁移，降低对网络和中心化服务的依赖。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T11:23:09.436588+00:00"
+}

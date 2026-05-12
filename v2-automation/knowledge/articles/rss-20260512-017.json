@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260512-017",
+  "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08415",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:32:19.956863+00:00",
+  "collected_at": "2026-05-12T10:32:19.956863+00:00",
+  "summary": "该论文研究了大型语言模型在政治意识形态上的可塑性，通过实验分析模型在不同政治立场下的适应能力。核心价值在于揭示了LLM在意识形态层面的动态调整特性，为理解AI系统的政治偏见提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:33:48.692239+00:00"
+}

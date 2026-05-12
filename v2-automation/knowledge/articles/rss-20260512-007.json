@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-007",
+  "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08220",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:32:19.956809+00:00",
+  "collected_at": "2026-05-12T10:32:19.956809+00:00",
+  "summary": "该论文提出了一种基于网格的空间提示方法，用于提升大语言模型在图表数据提取任务中的准确性。与传统的语义提示相比，该方法通过将图表划分为网格并利用空间位置信息，显著改善了模型对数值和结构的理解能力。实验结果表明，空间提示在多个基准数据集上优于语义提示，为结构化数据提取提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:33:48.692206+00:00"
+}

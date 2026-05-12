@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260512-009",
+  "title": "Embeddings for Preferences, Not Semantics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08360",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:32:19.956824+00:00",
+  "collected_at": "2026-05-12T10:32:19.956824+00:00",
+  "summary": "该论文提出了一种新的嵌入方法，专注于编码用户偏好而非语义相似性，旨在提升推荐系统的个性化能力。通过将偏好信息直接融入嵌入空间，该方法在多个推荐任务上取得了优于传统语义嵌入的性能。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:33:48.692212+00:00"
+}

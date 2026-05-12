@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-020",
+  "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:32:19.956877+00:00",
+  "collected_at": "2026-05-12T10:32:19.956877+00:00",
+  "summary": "该论文探讨了在医疗保健领域对生成式、多模态和智能体AI进行基准测试的方法，强调了评估这些技术在实际医疗应用中的重要性。核心价值在于提出了一个系统化的评估框架，以衡量AI在医疗场景中的性能、安全性和可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:33:48.692246+00:00"
+}

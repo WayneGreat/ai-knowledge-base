@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-018",
+  "title": "Alignment as Jurisprudence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08416",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:32:19.956868+00:00",
+  "collected_at": "2026-05-12T10:32:19.956868+00:00",
+  "summary": "该内容探讨了将AI对齐问题类比为法律解释学的框架，提出通过类似判例法的原则来规范AI行为。核心价值在于为AI安全领域提供了一种新的理论视角，可能有助于设计更稳健的对齐机制。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:33:48.692241+00:00"
+}

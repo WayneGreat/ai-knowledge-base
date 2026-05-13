@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-001",
+  "title": "I let AI build a tool to help me figure out what was waking me up at night",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-13T10:28:30.092832+00:00",
+  "collected_at": "2026-05-13T10:28:30.092832+00:00",
+  "summary": "作者利用AI构建了一个工具，用于分析夜间醒来原因，展示了AI在个人健康监测和问题诊断中的应用。该内容体现了AI工具在解决日常问题中的实用价值，属于优秀的技术实践分享。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:29:52.676891+00:00"
+}

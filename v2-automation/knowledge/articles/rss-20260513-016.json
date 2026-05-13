@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-016",
+  "title": "Constraint-Data-Value-Maximization: Utilizing Data Attribution for Effective Data Pruning in Low-Data Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11312",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:28:31.046442+00:00",
+  "collected_at": "2026-05-13T10:28:31.046442+00:00",
+  "summary": "该论文提出了一种名为Constraint-Data-Value-Maximization的方法，通过利用数据归因技术，在低数据环境下实现高效的数据剪枝。核心价值在于解决了数据稀缺时如何选择最有价值数据子集的问题，从而提升模型训练效率与性能。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:29:52.676952+00:00"
+}

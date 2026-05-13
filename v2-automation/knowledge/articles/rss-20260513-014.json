@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-014",
+  "title": "Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11259",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:28:31.046433+00:00",
+  "collected_at": "2026-05-13T10:28:31.046433+00:00",
+  "summary": "该论文提出了一种基于模板的本体方法，用于构建可配置的合成数据基础设施，以支持跨领域制造AI的验证。其核心价值在于通过模板化本体实现数据生成的灵活性和可复用性，从而降低对真实数据的依赖并提升AI模型在不同制造场景下的泛化能力。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:29:52.676946+00:00"
+}

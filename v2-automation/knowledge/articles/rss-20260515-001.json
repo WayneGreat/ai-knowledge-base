@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260515-001",
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-15T10:23:50.014414+00:00",
+  "collected_at": "2026-05-15T10:23:50.014414+00:00",
+  "summary": "安大略省审计员发现医生使用的AI笔记记录工具频繁出现基本事实错误，表明当前AI在医疗文档处理中的可靠性不足。该事件凸显了AI在专业领域应用中需要更严格的验证和监管。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-15T10:25:04.926783+00:00"
+}

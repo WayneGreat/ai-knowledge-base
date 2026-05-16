@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-008",
+  "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.13850",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:41:16.855878+00:00",
+  "collected_at": "2026-05-16T09:41:16.855878+00:00",
+  "summary": "该论文提出了一个用于AI智能体设计模式的二维框架，分别从认知功能和执行拓扑两个维度对智能体架构进行分类和分析。该框架有助于系统化地理解和比较不同的智能体设计方法，为构建更复杂、更高效的AI系统提供理论指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:42:30.435483+00:00"
+}

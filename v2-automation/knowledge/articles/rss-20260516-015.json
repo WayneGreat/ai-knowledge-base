@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-015",
+  "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14036",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:41:16.855915+00:00",
+  "collected_at": "2026-05-16T09:41:16.855915+00:00",
+  "summary": "该论文提出了一种增强大型学习模型推理能力与效率的方法，通过优化推理路径和计算资源分配，在保持性能的同时显著降低计算成本。其核心价值在于为大规模模型的实用化部署提供了更高效的推理方案。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:42:30.435506+00:00"
+}

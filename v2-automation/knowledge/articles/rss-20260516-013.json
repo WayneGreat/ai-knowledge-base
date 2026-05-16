@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-013",
+  "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14033",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:41:16.855903+00:00",
+  "collected_at": "2026-05-16T09:41:16.855903+00:00",
+  "summary": "该论文提出了一种基于层论（sheaf theory）的传输与障碍方法，用于检测AI代理中的科学理论漂移。核心价值在于为AI系统的理论一致性提供形式化验证框架，有助于提升代理在动态环境中的可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-16T09:42:30.435499+00:00"
+}

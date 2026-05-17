@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260517-008",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/continuous_async",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-17T09:47:42.371515+00:00",
+  "collected_at": "2026-05-17T09:47:42.371515+00:00",
+  "summary": "该文章探讨了在连续批处理中实现异步性的技术方法，旨在提升大语言模型推理的效率和吞吐量。核心价值在于通过优化批处理策略，减少等待时间并最大化硬件利用率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-17T09:48:57.512444+00:00"
+}

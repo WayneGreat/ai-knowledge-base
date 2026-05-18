@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-007",
+  "title": "DeepSlide: From Artifacts to Presentation Delivery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:44:25.848607+00:00",
+  "collected_at": "2026-05-18T11:44:25.848607+00:00",
+  "summary": "该论文提出了一种从病理切片图像中自动检测和分类人工制品的方法，并构建了从数据预处理到结果交付的完整工作流。其核心价值在于提高了病理图像分析的准确性和效率，减少了人工干预。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:45:44.033823+00:00"
+}

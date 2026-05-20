@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-004",
+  "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.18818",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:50:23.068803+00:00",
+  "collected_at": "2026-05-20T10:50:23.068803+00:00",
+  "summary": "本文提出了一种用于生产环境中OCR与LLM流水线的微服务架构，旨在将文档AI操作化。核心价值在于提供可扩展、模块化的部署方案，以应对实际应用中的复杂文档处理需求。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:27.803693+00:00"
+}

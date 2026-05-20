@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-012",
+  "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19099",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:50:23.068860+00:00",
+  "collected_at": "2026-05-20T10:50:23.068860+00:00",
+  "summary": "该论文提出了DecisionBench，一个用于评估长期任务中智能体工作流中涌现的委托行为的基准。它旨在衡量AI系统在复杂、多步骤任务中自主决策和分配子任务的能力，对研究多智能体协作和自主规划有重要价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:27.803727+00:00"
+}

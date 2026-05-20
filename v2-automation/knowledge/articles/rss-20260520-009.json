@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-009",
+  "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19035",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:50:23.068844+00:00",
+  "collected_at": "2026-05-20T10:50:23.068844+00:00",
+  "summary": "本文探讨了在智能体网络中建立信任的重要性，强调信任应作为系统内在设计的一部分，而非事后添加的功能。核心价值在于提出了一种将信任机制深度集成到智能体网络架构中的方法论，以确保网络的安全性和可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:27.803717+00:00"
+}

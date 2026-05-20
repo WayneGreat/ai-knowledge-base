@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-014",
+  "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19140",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:50:23.068869+00:00",
+  "collected_at": "2026-05-20T10:50:23.068869+00:00",
+  "summary": "该论文提出了一种在接口约束下可证明收敛的工作流学习方法，通过形式化定义工作流交接过程，确保学习算法能够收敛到最优策略。其核心价值在于为多智能体系统中的任务协调提供了理论保证，提升了工作流学习的可靠性和效率。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:27.803733+00:00"
+}

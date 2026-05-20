@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-016",
+  "title": "How Far Are We From True Auto-Research?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19156",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:50:23.068877+00:00",
+  "collected_at": "2026-05-20T10:50:23.068877+00:00",
+  "summary": "该论文探讨了实现真正自主研究型AI系统的当前进展与挑战，分析了现有技术如大型语言模型、多智能体系统等在自动化研究流程中的能力与局限。文章为AI研究者提供了关于未来发展方向和关键瓶颈的深入见解。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:27.803739+00:00"
+}

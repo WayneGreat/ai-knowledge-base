@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260521-001",
+  "title": "Qwen3.7-Max: The Agent Frontier",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://qwen.ai/blog?id=qwen3.7",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-21T11:25:46.205132+00:00",
+  "collected_at": "2026-05-21T11:25:46.205132+00:00",
+  "summary": "Qwen3.7-Max 是阿里推出的新一代大语言模型，专注于智能体（Agent）能力，在工具使用、多步推理和自主决策方面有显著提升。该模型代表了当前大模型向 Agent 化发展的前沿方向，对构建复杂 AI 应用具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-21T11:26:51.967269+00:00"
+}

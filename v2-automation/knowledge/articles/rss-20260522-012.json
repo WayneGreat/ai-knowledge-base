@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260522-012",
+  "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20490",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:51:03.541156+00:00",
+  "collected_at": "2026-05-22T10:51:03.541156+00:00",
+  "summary": "该论文提出了一个名为$ECUAS_n$的度量家族，用于对不确定性增强系统进行原则性评估。核心价值在于为评估这类系统的性能提供了统一且理论严谨的框架，有助于推动不确定性量化在AI应用中的标准化。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-22T10:52:12.912498+00:00"
+}

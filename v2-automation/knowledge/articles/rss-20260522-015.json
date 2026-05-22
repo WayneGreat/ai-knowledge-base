@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-015",
+  "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20554",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:51:03.541171+00:00",
+  "collected_at": "2026-05-22T10:51:03.541171+00:00",
+  "summary": "该论文提出了一种利用AI代理进行人格工程的新方法，用于谈判研究。通过构建具有特定人格特征的AI代理，可以更系统地模拟和分析谈判行为，为谈判策略的优化提供新工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:52:12.912508+00:00"
+}

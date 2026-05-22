@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-014",
+  "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20530",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:51:03.541167+00:00",
+  "collected_at": "2026-05-22T10:51:03.541167+00:00",
+  "summary": "该论文提出AgentAtlas，一种超越传统结果排行榜的LLM Agent评估框架，通过分析代理在任务执行过程中的行为模式、决策路径和错误类型，提供更全面的性能洞察。其核心价值在于揭示了仅依赖最终结果评估的局限性，为代理系统的改进提供了过程导向的评估方法。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:52:12.912504+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260522-011",
+  "title": "High Quality Embeddings for Horn Logic Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20467",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:51:03.541151+00:00",
+  "collected_at": "2026-05-22T10:51:03.541151+00:00",
+  "summary": "该论文提出了一种为Horn逻辑推理生成高质量嵌入表示的方法，旨在提升基于符号推理的AI系统的效率和准确性。其核心价值在于将神经网络的表示学习能力与逻辑推理的形式化优势相结合，为知识图谱和复杂推理任务提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:52:12.912494+00:00"
+}

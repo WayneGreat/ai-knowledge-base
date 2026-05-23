@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-018",
+  "title": "Who Uses AI? Platforms, Workforce, and AI Exposure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21743",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:53:42.230632+00:00",
+  "collected_at": "2026-05-23T09:53:42.230632+00:00",
+  "summary": "该内容探讨了AI平台、劳动力与AI暴露度之间的关系，分析了不同群体对AI的使用情况及其对就业市场的影响。核心价值在于提供对AI技术普及现状的量化洞察，帮助理解AI如何重塑工作环境。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:54:46.257608+00:00"
+}

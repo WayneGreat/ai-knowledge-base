@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-010",
+  "title": "The Shape of Testimony: A Scalable Framework for Oral History Archive Comparison",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21623",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:53:42.230593+00:00",
+  "collected_at": "2026-05-23T09:53:42.230593+00:00",
+  "summary": "该论文提出了一种可扩展的框架，用于比较口述历史档案，通过结构化方法分析证词形态。其核心价值在于为大规模口述历史研究提供标准化比较工具，推动数字人文领域的跨档案分析。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:54:46.257584+00:00"
+}

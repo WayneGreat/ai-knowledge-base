@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-019",
+  "title": "A Causal Argumentation Method for Explainability of Machine Learning Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21758",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:53:42.230636+00:00",
+  "collected_at": "2026-05-23T09:53:42.230636+00:00",
+  "summary": "该论文提出了一种基于因果论证的方法来解释机器学习模型的决策过程，通过构建因果图来揭示输入特征与模型输出之间的因果关系。该方法旨在提高模型的可解释性，帮助用户理解模型为何做出特定预测，从而增强对AI系统的信任。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:54:46.257611+00:00"
+}

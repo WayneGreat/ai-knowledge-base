@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-017",
+  "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21740",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:53:42.230628+00:00",
+  "collected_at": "2026-05-23T09:53:42.230628+00:00",
+  "summary": "该论文提出了SMDD-Bench基准测试，用于评估大语言模型在真实世界小分子药物设计任务中的表现。核心内容涉及构建标准化的评估框架，以衡量LLM在分子生成、性质预测等药物设计关键步骤上的能力。这项工作为AI辅助药物发现提供了重要的性能参考和评估标准。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:54:46.257606+00:00"
+}

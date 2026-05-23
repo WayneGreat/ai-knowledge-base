@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-013",
+  "title": "Investigating Concept Alignment Using Implausible Category Members",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21683",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:53:42.230610+00:00",
+  "collected_at": "2026-05-23T09:53:42.230610+00:00",
+  "summary": "该论文通过引入不合理类别成员来探究概念对齐问题，旨在理解AI模型如何学习并表征概念边界。其核心价值在于为评估和提升模型的概念理解能力提供新的方法论视角。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:54:46.257593+00:00"
+}

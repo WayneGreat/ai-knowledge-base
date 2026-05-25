@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260525-001",
+  "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-25T11:53:18.407545+00:00",
+  "collected_at": "2026-05-25T11:53:18.407545+00:00",
+  "summary": "该文章指出，在AI芯片组件成本中，内存成本已增长至近三分之二，凸显了内存瓶颈对AI硬件发展的关键影响。这一趋势可能推动内存架构创新和成本优化策略的讨论。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:54:23.082338+00:00"
+}

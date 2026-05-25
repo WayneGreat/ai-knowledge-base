@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-008",
+  "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22878",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:53:19.898630+00:00",
+  "collected_at": "2026-05-25T11:53:19.898630+00:00",
+  "summary": "SciAtlas 是一个大规模知识图谱，旨在自动化科学研究过程。它通过整合科学文献、实验数据和知识结构，为研究人员提供智能化的知识发现和推理能力。该图谱的核心价值在于加速科学研究的自动化，提升知识检索和关联分析的效率。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning",
+    "knowledge-graph"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T11:54:23.082374+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-015",
+  "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23109",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:53:19.898663+00:00",
+  "collected_at": "2026-05-25T11:53:19.898663+00:00",
+  "summary": "本文提出归纳演绎合成方法，使AI能够生成经过形式化验证的系统，结合归纳学习与演绎推理确保系统正确性。该方法提升了AI生成代码的可靠性与安全性，对形式化验证与AI系统开发具有重要价值。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T11:54:23.082395+00:00"
+}

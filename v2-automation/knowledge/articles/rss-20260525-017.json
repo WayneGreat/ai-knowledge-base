@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-017",
+  "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23204",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:53:19.898674+00:00",
+  "collected_at": "2026-05-25T11:53:19.898674+00:00",
+  "summary": "该论文探讨了如何利用AI自动化科学研究流程，包括文献综述、假设生成和实验设计，旨在加速科学发现。其核心价值在于提出一个端到端的自动化框架，减少人工重复劳动，提升研究效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:54:23.082403+00:00"
+}

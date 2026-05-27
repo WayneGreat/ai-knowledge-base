@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-004",
+  "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-27T11:39:31.703305+00:00",
+  "collected_at": "2026-05-27T11:39:31.703305+00:00",
+  "summary": "挪威使用华为2PB闪存存储进行大语言模型训练，展示了大规模存储基础设施在AI训练中的关键作用。该案例强调了高性能存储对LLM训练效率和数据管理的重要性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:40:44.317936+00:00"
+}

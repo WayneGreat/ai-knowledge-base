@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-009",
+  "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26256",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:39:33.427651+00:00",
+  "collected_at": "2026-05-27T11:39:33.427651+00:00",
+  "summary": "该论文提出了一种针对具身多模态大语言模型代理的个性化方法，使其能够在长期用户交互中学习和适应个体偏好。核心价值在于通过持续交互来增强代理的个性化服务能力，从而提升用户体验和任务完成效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:40:44.317957+00:00"
+}

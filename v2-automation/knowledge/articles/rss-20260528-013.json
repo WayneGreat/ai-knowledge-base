@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-013",
+  "title": "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27571",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:38:22.476388+00:00",
+  "collected_at": "2026-05-28T11:38:22.476388+00:00",
+  "summary": "该论文提出了一种名为Discovery Agents的框架，用于实时分析，旨在从被动数据查询转向主动洞察系统。核心价值在于通过智能代理自动发现数据中的模式、异常和趋势，从而提升分析效率和决策支持能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:39:40.849317+00:00"
+}

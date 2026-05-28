@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-008",
+  "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27551",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:38:22.476364+00:00",
+  "collected_at": "2026-05-28T11:38:22.476364+00:00",
+  "summary": "该论文探讨了通过隐写继承机制生成合成信息的方法，提出了一种利用隐写技术传递和演化信息的新框架。其核心价值在于为信息合成与安全通信领域提供了创新思路，可能对数据隐藏和人工智能生成内容有重要影响。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:39:40.849302+00:00"
+}

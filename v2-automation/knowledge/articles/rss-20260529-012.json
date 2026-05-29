@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-012",
+  "title": "Orthogonal Concept Erasure for Diffusion Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28902",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:30:22.206352+00:00",
+  "collected_at": "2026-05-29T11:30:22.206352+00:00",
+  "summary": "该论文提出了一种基于正交投影的概念擦除方法，用于从扩散模型中移除特定概念（如敏感内容或风格），同时保持模型生成质量。该方法通过正交约束确保擦除过程不影响其他概念，为模型安全性和可控性提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:31:24.636521+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-015",
+  "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28994",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:30:22.206366+00:00",
+  "collected_at": "2026-05-29T11:30:22.206366+00:00",
+  "summary": "BEAMS 是一个用于基准测试和评估 AI 在建模与仿真领域表现的框架。它通过标准化数据集和评估指标，衡量 AI 模型在模拟物理系统、优化设计等任务中的能力。该工作为 AI 在工程与科学仿真中的应用提供了系统化的评估方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:31:24.636536+00:00"
+}

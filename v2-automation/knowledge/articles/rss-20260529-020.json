@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-020",
+  "title": "Differentiable Belief-based Opponent Shaping",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.29042",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:30:22.206398+00:00",
+  "collected_at": "2026-05-29T11:30:22.206398+00:00",
+  "summary": "提出一种基于信念的对手塑形方法，通过可微分框架优化多智能体系统中的交互策略。该方法能够学习对手的行为模型并引导其合作，提升多智能体系统的整体性能。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:31:24.636559+00:00"
+}

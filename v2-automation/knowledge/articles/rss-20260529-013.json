@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-013",
+  "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28965",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:30:22.206357+00:00",
+  "collected_at": "2026-05-29T11:30:22.206357+00:00",
+  "summary": "该研究探讨了基于前沿大语言模型（LLM）的智能体如何克服自然表型本体论策展的瓶颈，通过自动化处理提高策展效率。核心价值在于展示了LLM智能体在生物信息学领域的应用潜力，能够辅助专家完成复杂的本体论构建任务。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:31:24.636526+00:00"
+}

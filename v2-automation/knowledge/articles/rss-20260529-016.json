@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-016",
+  "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.29018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:30:22.206370+00:00",
+  "collected_at": "2026-05-29T11:30:22.206370+00:00",
+  "summary": "该论文通过纵向分析真实世界中的LLM对话，探讨了用户从初步采用（Adopt）到长期适应（Adapt）的行为变化。研究发现，用户与LLM的交互模式会随时间演变，包括对话长度、话题分布和用户满意度的动态变化。这项工作为理解LLM在实际应用中的长期使用模式提供了重要见解，有助于改进模型设计和用户体验。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:31:24.636541+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260530-008",
+  "title": "Reachy Mini goes fully local",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-30T10:01:06.483480+00:00",
+  "collected_at": "2026-05-30T10:01:06.483480+00:00",
+  "summary": "Reachy Mini 机器人现在完全本地运行，无需依赖云服务，提升了隐私和响应速度。该更新使机器人更适合边缘计算场景，尤其适用于教育和研究领域。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-30T10:02:07.737149+00:00"
+}

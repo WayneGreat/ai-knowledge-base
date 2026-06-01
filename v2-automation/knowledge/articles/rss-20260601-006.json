@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-006",
+  "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30570",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:57.501193+00:00",
+  "collected_at": "2026-06-01T13:36:57.501193+00:00",
+  "summary": "该论文提出使用Map-Elites算法程序化生成第一人称射击游戏地图，通过质量多样性优化方法在保持地图功能性的同时探索多样化的设计空间。核心价值在于为游戏开发提供了一种自动化、高质量且富有创意的地图生成方案。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:38:05.768850+00:00"
+}

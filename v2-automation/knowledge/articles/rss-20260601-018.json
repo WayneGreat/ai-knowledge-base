@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-018",
+  "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30838",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:57.501250+00:00",
+  "collected_at": "2026-06-01T13:36:57.501250+00:00",
+  "summary": "COMPASS 提出了一种基于认知蒙特卡洛树搜索（MCTS）的过程对齐方法，用于提升搜索智能体的安全性。该方法通过模拟搜索过程并优化决策路径，确保智能体在复杂环境中遵循安全约束，同时保持高效的任务执行能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:38:05.768891+00:00"
+}

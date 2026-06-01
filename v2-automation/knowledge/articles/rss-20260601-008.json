@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-008",
+  "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:57.501203+00:00",
+  "collected_at": "2026-06-01T13:36:57.501203+00:00",
+  "summary": "该论文探讨了自进化LLM代理中，更新机制与性能提升之间的区别，旨在厘清进化能力的关键因素。通过实验分析，作者发现单纯的更新并不等同于代理能力的提升，并提出了更有效的进化策略。这项工作对于理解LLM代理的自我改进机制具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:38:05.768860+00:00"
+}

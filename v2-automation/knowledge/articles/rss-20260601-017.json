@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260601-017",
+  "title": "SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30832",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:57.501246+00:00",
+  "collected_at": "2026-06-01T13:36:57.501246+00:00",
+  "summary": "SLAT 提出了一种在推理链（CoT）中进行段级自适应裁剪的方法，旨在提高大型语言模型推理效率。通过动态识别并移除冗余的推理步骤，该方法在保持推理准确性的同时显著减少了计算开销。其核心价值在于为长链推理任务提供了一种高效的优化方案。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:38:05.768886+00:00"
+}

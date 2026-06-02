@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-011",
+  "title": "Universal Quantum Transformer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T12:04:31.838252+00:00",
+  "collected_at": "2026-06-02T12:04:31.838252+00:00",
+  "summary": "该论文提出了一个通用量子变压器（Universal Quantum Transformer），旨在将经典变压器架构扩展到量子计算领域。核心价值在于探索量子机器学习的新范式，可能为量子优势在自然语言处理等任务中的应用提供理论基础。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-02T12:05:31.150915+00:00"
+}

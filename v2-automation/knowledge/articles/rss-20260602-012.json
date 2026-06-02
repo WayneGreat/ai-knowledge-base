@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-012",
+  "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00050",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T12:04:31.838257+00:00",
+  "collected_at": "2026-06-02T12:04:31.838257+00:00",
+  "summary": "该论文提出了一种名为Grokers的新型知识图谱理解方法，通过自底向上的归纳推理实现类型化知识图谱的即时智能。其核心价值在于将知识图谱的静态表示转化为动态的、可推理的智能系统，提升了知识图谱的查询与推理效率。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "rag"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-02T12:05:31.150917+00:00"
+}

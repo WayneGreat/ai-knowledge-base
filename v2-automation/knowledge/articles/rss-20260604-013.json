@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-013",
+  "title": "Can Generalist Agents Automate Data Curation?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04261",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:15:16.360722+00:00",
+  "collected_at": "2026-06-04T11:15:16.360722+00:00",
+  "summary": "该论文探讨了通用型AI代理能否自动化数据整理过程，提出了一种基于大语言模型的方法来执行数据清洗、标注和增强任务。研究通过实验验证了代理在多种数据整理场景中的有效性，为降低人工数据预处理成本提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:22.707382+00:00"
+}

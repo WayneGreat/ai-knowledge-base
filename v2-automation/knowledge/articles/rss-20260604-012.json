@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-012",
+  "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04246",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:15:16.360718+00:00",
+  "collected_at": "2026-06-04T11:15:16.360718+00:00",
+  "summary": "该论文提出了一种名为StepPRM-RTL的方法，通过逐步过程奖励引导的大语言模型微调，以增强RTL（寄存器传输级）综合任务。核心价值在于利用过程奖励模型（PRM）来优化LLM的微调过程，从而提升硬件描述代码生成的准确性和效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:22.707379+00:00"
+}

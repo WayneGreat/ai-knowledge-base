@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-001",
+  "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-04T11:15:14.771463+00:00",
+  "collected_at": "2026-06-04T11:15:14.771463+00:00",
+  "summary": "该文章报道了加州大学伯克利分校计算机科学课程中，随着学生使用AI工具（如ChatGPT）完成作业，数学和编程技能出现显著下滑，导致不及格率飙升。核心价值在于揭示了AI辅助学习可能削弱学生基础能力的风险，引发对教育和技术依赖的反思。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:22.707334+00:00"
+}

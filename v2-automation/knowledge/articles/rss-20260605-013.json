@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-013",
+  "title": "Synthetic Contrastive Reasoning for Multi-Table Q&amp;A",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05382",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:28:38.993837+00:00",
+  "collected_at": "2026-06-05T11:28:38.993837+00:00",
+  "summary": "该论文提出了一种名为Synthetic Contrastive Reasoning的方法，用于提升多表问答（Multi-Table Q&A）任务的性能。通过合成对比推理数据，模型能够更好地理解表格间的关联并生成准确答案，为复杂表格推理提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:45.332815+00:00"
+}

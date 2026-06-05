@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-014",
+  "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05384",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:28:38.993841+00:00",
+  "collected_at": "2026-06-05T11:28:38.993841+00:00",
+  "summary": "该论文探讨了LLM作为裁判时的鲁棒性问题，重点关注后决策交互场景下的稳定性与可操纵性之间的权衡。通过实验评估，揭示了当前LLM裁判在面临对抗性输入时容易受到操纵，并提出了改进鲁棒性的方法。这项工作对于构建更可靠的AI评估系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:45.332818+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-019",
+  "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05408",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:28:38.993865+00:00",
+  "collected_at": "2026-06-05T11:28:38.993865+00:00",
+  "summary": "该论文探讨了在LLM驱动的程序进化过程中，变异操作缺乏多样性导致收敛动态的问题。核心价值在于揭示了当前基于LLM的代码生成和进化算法中，由于变异模式单一，程序种群容易过早收敛到局部最优，从而限制了创新性和多样性。研究为改进LLM在程序合成和进化计算中的应用提供了理论分析和实践指导。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:45.332832+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-015",
+  "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05389",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:28:38.993845+00:00",
+  "collected_at": "2026-06-05T11:28:38.993845+00:00",
+  "summary": "该论文提出了一种用于科学数据高保真学习压缩的残差建模方法，通过结合残差学习与深度学习模型，显著提升了压缩精度与数据保真度。其核心价值在于为科学计算中的大规模数据存储与传输提供了高效且无损的压缩方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:45.332821+00:00"
+}

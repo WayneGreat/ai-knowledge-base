@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-008",
+  "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06531",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:28:19.433756+00:00",
+  "collected_at": "2026-06-08T12:28:19.433756+00:00",
+  "summary": "该论文提出了一种名为CARVE-Q的交互式驾驶修复方法，结合量子计算提议与经典计算验证，旨在提升自动驾驶系统的鲁棒性和安全性。其核心价值在于通过量子-经典混合框架实现高效、可靠的驾驶策略修复。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-08T12:29:40.578583+00:00"
+}

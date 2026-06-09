@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260609-013",
+  "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07780",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:15:36.947008+00:00",
+  "collected_at": "2026-06-09T11:15:36.947008+00:00",
+  "summary": "该研究分析了土地覆盖类型和洪水类型如何影响基于卫星的洪水测绘的检测极限，揭示了不同全球洪水事件中测绘精度的关键制约因素。研究结果为改进洪水监测技术提供了重要参考，有助于提升灾害响应能力。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:16:52.254445+00:00"
+}

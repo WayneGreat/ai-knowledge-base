@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260609-002",
+  "title": "Apple Core AI Framework",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-09T11:15:31.579628+00:00",
+  "collected_at": "2026-06-09T11:15:31.579628+00:00",
+  "summary": "该内容标题为 'Apple Core AI Framework'，可能涉及苹果公司推出的核心AI框架，用于支持设备端或云端的机器学习与人工智能功能。该框架可能旨在提升iOS/macOS生态中AI应用的性能与隐私保护，但缺乏具体描述，无法确认其技术细节或创新程度。",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:16:52.254401+00:00"
+}

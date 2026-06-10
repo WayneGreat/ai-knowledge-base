@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-017",
+  "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10241",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:39:04.533692+00:00",
+  "collected_at": "2026-06-10T11:39:04.533692+00:00",
+  "summary": "该论文提出了一种名为Regimes的可审计、保留门控改进循环方法，旨在提升长上下文记忆任务的性能。通过在LongMemEval基准上使用ActiveGraph进行演示，该方法展示了在长序列处理中的有效性。核心价值在于提供了一种可审计的机制来优化模型在长上下文场景下的表现。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:40:27.541007+00:00"
+}

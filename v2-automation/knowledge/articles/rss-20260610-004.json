@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260610-004",
+  "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:39:02.720945+00:00",
+  "collected_at": "2026-06-10T11:39:02.720945+00:00",
+  "summary": "该报道揭示了微软开源工具被黑客攻击，用于窃取AI开发者的密码。核心价值在于警示AI开发社区关注供应链安全，防范针对开发工具和环境的恶意攻击。",
+  "score": 7,
+  "tags": [
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:40:27.540981+00:00"
+}

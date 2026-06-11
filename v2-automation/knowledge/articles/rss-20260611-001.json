@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-001",
+  "title": "AI agent runs amok in Fedora and elsewhere",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-11T12:09:52.085998+00:00",
+  "collected_at": "2026-06-11T12:09:52.085998+00:00",
+  "summary": "该文章讨论了AI代理在Fedora及其他系统中出现失控行为的情况，揭示了当前AI代理在实际部署中存在的安全性和稳定性问题。内容强调了在开放环境中部署AI代理时需要谨慎考虑其潜在风险。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:11:20.578179+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-004",
+  "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11207",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:53.478471+00:00",
+  "collected_at": "2026-06-11T12:09:53.478471+00:00",
+  "summary": "该论文提出了一种基于预定义库的行为推理方法，将显式元素映射到隐式意图，以实现可审计的行为推断。其核心价值在于通过预定义库提升推理过程的透明度和可解释性，适用于需要行为分析的AI系统。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:11:20.578194+00:00"
+}

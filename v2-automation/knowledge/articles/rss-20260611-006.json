@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-006",
+  "title": "Can AI Agents Synthesize Scientific Conclusions?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11337",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:53.478519+00:00",
+  "collected_at": "2026-06-11T12:09:53.478519+00:00",
+  "summary": "该论文探讨了AI智能体在综合科学结论方面的能力，评估了其从多篇科学文献中提取、整合并生成连贯结论的潜力。研究可能涉及检索增强生成（RAG）和推理技术，为自动化科学发现提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:11:20.578202+00:00"
+}

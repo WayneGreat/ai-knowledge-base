@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-020",
+  "title": "Mind the Perspective: Let's Reason Recursively for Theory of Mind",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11724",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:53.478593+00:00",
+  "collected_at": "2026-06-11T12:09:53.478593+00:00",
+  "summary": "该论文提出了一种递归推理方法，用于增强AI模型的心智理论能力，即理解和推断他人心理状态的能力。通过递归推理，模型能够更准确地模拟人类的社会认知过程，从而在需要复杂社会交互的任务中表现更优。这项研究为提升AI在协作、对话等场景中的社会智能提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-11T12:11:20.578266+00:00"
+}

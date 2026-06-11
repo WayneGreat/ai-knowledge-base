@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-015",
+  "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11634",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:53.478569+00:00",
+  "collected_at": "2026-06-11T12:09:53.478569+00:00",
+  "summary": "该论文提出了一种架构感知的强化学习方法，使滑动窗口注意力机制在数学推理任务中达到与全局注意力机制竞争的性能。核心价值在于通过强化学习优化注意力模式，在不增加计算开销的前提下提升模型在长序列推理任务中的表现。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:11:20.578248+00:00"
+}

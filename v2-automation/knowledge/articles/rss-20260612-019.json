@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-019",
+  "title": "Prefill Awareness in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12747",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:43:21.982750+00:00",
+  "collected_at": "2026-06-12T11:43:21.982750+00:00",
+  "summary": "该论文探讨了大型语言模型中的预填充感知（Prefill Awareness）概念，旨在通过优化预填充阶段来提升模型推理效率和准确性。核心价值在于提出一种新的方法，使模型在生成响应前能更智能地处理输入上下文，从而减少计算开销并改善输出质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:44:36.749303+00:00"
+}

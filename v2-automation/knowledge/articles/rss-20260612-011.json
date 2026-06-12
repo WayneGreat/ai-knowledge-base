@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-011",
+  "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12674",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:43:21.982713+00:00",
+  "collected_at": "2026-06-12T11:43:21.982713+00:00",
+  "summary": "Evoflux 提出了一种在推理阶段通过进化算法优化可执行工具工作流的方法，用于构建紧凑型 AI 代理。该方法在推理时动态演化工作流，提升了代理的适应性和效率，无需额外训练。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:44:36.749276+00:00"
+}

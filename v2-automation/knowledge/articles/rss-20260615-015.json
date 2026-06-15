@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-015",
+  "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13734",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:55:17.628925+00:00",
+  "collected_at": "2026-06-15T13:55:17.628925+00:00",
+  "summary": "该研究重新分析了AI接受度与采用广度之间的关系，特别关注低识字率与高使用率之间的关联。通过工具特定的分析，揭示了不同AI工具在用户接受度和使用模式上的差异。这项研究为理解AI技术在不同用户群体中的传播提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:56:37.370512+00:00"
+}

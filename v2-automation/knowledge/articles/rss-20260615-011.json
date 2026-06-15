@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-011",
+  "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13720",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:55:17.628908+00:00",
+  "collected_at": "2026-06-15T13:55:17.628908+00:00",
+  "summary": "该论文比较了两种用于识别语言模型中拒绝行为方向的方法：Diff-in-Means 和 INLP。研究发现，拒绝行为并非由单一方向控制，而是涉及多个方向，且 INLP 方法能更有效地识别这些方向。这项工作为理解语言模型的安全机制提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-15T13:56:37.370499+00:00"
+}

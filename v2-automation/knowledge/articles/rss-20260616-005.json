@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-005",
+  "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14885",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:53:16.766836+00:00",
+  "collected_at": "2026-06-16T12:53:16.766836+00:00",
+  "summary": "该论文提出Dr-DCI方法，通过动态工作空间扩展来提升直接语料库交互的规模与效率，解决了传统方法在处理大规模语料时的局限性。其核心价值在于为AI系统提供了一种可扩展的交互机制，有望在信息检索和知识管理领域产生实际应用。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:54:24.421899+00:00"
+}

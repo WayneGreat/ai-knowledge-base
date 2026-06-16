@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-015",
+  "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15078",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:53:16.766877+00:00",
+  "collected_at": "2026-06-16T12:53:16.766877+00:00",
+  "summary": "本文探讨了“认知债务”概念，将AI视为智力杠杆，并分析了由此产生的系统性脆弱性动态。核心内容在于揭示AI系统在增强人类认知能力的同时，如何可能引入新的依赖性和风险，导致系统整体稳定性下降。该研究为理解AI的长期社会技术影响提供了有价值的分析框架。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:54:24.421927+00:00"
+}

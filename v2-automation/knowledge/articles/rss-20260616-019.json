@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-019",
+  "title": "CogGuard: Cognitive and Operational Profiling for Proactive Warning in Edge Intelligent Services",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15199",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:53:16.766892+00:00",
+  "collected_at": "2026-06-16T12:53:16.766892+00:00",
+  "summary": "CogGuard 提出了一种结合认知与操作分析的框架，用于在边缘智能服务中实现主动预警。其核心价值在于通过实时监控用户认知状态和系统操作模式，提前检测潜在风险并触发预防性措施，从而提升边缘服务的可靠性和用户体验。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:54:24.421936+00:00"
+}

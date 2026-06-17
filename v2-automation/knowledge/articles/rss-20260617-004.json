@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-004",
+  "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17220",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:16:29.389827+00:00",
+  "collected_at": "2026-06-17T12:16:29.389827+00:00",
+  "summary": "该论文提出了一种自进化智能体用于法律案例检索，通过让规则学习动态调整检索策略，提升了检索准确性和适应性。核心价值在于将规则学习与智能体结合，为法律领域的信息检索提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:17:45.455955+00:00"
+}

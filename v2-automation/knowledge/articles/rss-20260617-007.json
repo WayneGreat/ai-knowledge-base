@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-007",
+  "title": "Nothing from Something: Can a Language Model Discover 0?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17289",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:16:29.389857+00:00",
+  "collected_at": "2026-06-17T12:16:29.389857+00:00",
+  "summary": "该论文探讨了语言模型是否能够从非零数据中自主发现并理解“零”这一概念，揭示了当前模型在抽象数学概念上的局限性。研究通过实验设计，测试了模型对零的表示和推理能力，为理解语言模型的认知边界提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:17:45.455966+00:00"
+}

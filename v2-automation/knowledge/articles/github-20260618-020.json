@@ -1,0 +1,19 @@
+{
+  "id": "github-20260618-020",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "author": "DietrichGebert",
+  "published_at": "2026-06-17T02:35:22Z",
+  "collected_at": "2026-06-18T11:50:27.887435+00:00",
+  "summary": "Ponytail 是一个让 AI 代理像最懒的高级开发者一样思考的工具，强调最佳代码是未编写的代码。它通过减少不必要的代码生成，提升 AI 代理的效率和简洁性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-18T11:51:44.561603+00:00"
+}

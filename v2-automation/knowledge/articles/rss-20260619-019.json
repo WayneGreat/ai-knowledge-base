@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260619-019",
+  "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19651",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:06:05.644202+00:00",
+  "collected_at": "2026-06-19T12:06:05.644202+00:00",
+  "summary": "本文提出了一种名为BrainG3N的双用途分词器，用于可控的3D脑部MRI生成。该技术通过将脑部MRI数据转化为离散的token序列，实现了对生成图像的结构和病理特征的精确控制，为医学影像生成提供了新的工具。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:07:28.856178+00:00"
+}

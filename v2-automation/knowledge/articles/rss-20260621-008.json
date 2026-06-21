@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260621-008",
+  "title": "MolmoMotion: Language-guided 3D motion forecasting",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/molmomotion",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-21T11:16:24.745744+00:00",
+  "collected_at": "2026-06-21T11:16:24.745744+00:00",
+  "summary": "MolmoMotion 是一种语言引导的 3D 运动预测技术，通过自然语言指令实现更精准的物体或人体运动轨迹预测。该技术结合了多模态理解和时序建模，在机器人交互和自动驾驶等领域具有重要应用价值。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-21T11:17:42.292914+00:00"
+}

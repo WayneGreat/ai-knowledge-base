@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-009",
+  "title": "In LLM Reasoning, there is Irrationality on top of Value Misalignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20624",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:16:45.972826+00:00",
+  "collected_at": "2026-06-23T11:16:45.972826+00:00",
+  "summary": "该论文探讨了大语言模型（LLM）在推理过程中存在的非理性行为，这种非理性不仅源于价值对齐（value misalignment）问题，还独立存在于推理机制本身。研究揭示了LLM在逻辑推理时可能表现出与人类类似的认知偏差，为改进模型推理能力提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:17:57.520014+00:00"
+}

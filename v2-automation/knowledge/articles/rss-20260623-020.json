@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260623-020",
+  "title": "SPARC: A Multi-Agent System for Electrical Circuit Question Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20643",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:16:45.972889+00:00",
+  "collected_at": "2026-06-23T11:16:45.972889+00:00",
+  "summary": "SPARC 是一个用于电路问答的多智能体系统，通过多个专业智能体协作处理电路图理解与推理任务。该系统展示了多智能体架构在特定领域问题解决中的有效性，为复杂电路分析提供了自动化方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:17:57.520049+00:00"
+}

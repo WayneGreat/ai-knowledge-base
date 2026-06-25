@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-004",
+  "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:41:42.307697+00:00",
+  "collected_at": "2026-06-25T10:41:42.307697+00:00",
+  "summary": "该文章系统性地介绍了自主AI代理（Agentic AI）从基础概念到系统实现的完整知识体系，涵盖了代理架构、工具使用、多代理协作等核心技术。它为读者提供了构建和理解自主AI系统的实用指南，具有较高的技术参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:43:03.930705+00:00"
+}

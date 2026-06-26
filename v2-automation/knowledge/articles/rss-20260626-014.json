@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-014",
+  "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26299",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:51:22.399797+00:00",
+  "collected_at": "2026-06-26T10:51:22.399797+00:00",
+  "summary": "COrigami 是一个 AI 管道，用于协同设计可平面折叠且视觉可识别的折纸结构。其核心价值在于将人工智能与折纸设计相结合，实现自动化的折纸结构生成与视觉识别。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:52:35.896516+00:00"
+}

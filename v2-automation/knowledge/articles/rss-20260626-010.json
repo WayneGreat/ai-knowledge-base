@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-010",
+  "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26203",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:51:22.399779+00:00",
+  "collected_at": "2026-06-26T10:51:22.399779+00:00",
+  "summary": "本文提出了一种基于LLM的自动化分析流程，用于对DAO和公司AI协议进行治理比较。该研究通过构建智能体系统，实现了对去中心化自治组织和传统企业AI治理框架的对比分析，为AI治理提供了新的方法论。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:52:35.896501+00:00"
+}

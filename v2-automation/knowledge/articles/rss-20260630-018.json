@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260630-018",
+  "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28126",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-30T10:56:49.623346+00:00",
+  "collected_at": "2026-06-30T10:56:49.623346+00:00",
+  "summary": "该论文提出了一种基于AI的合成方法，用于高科技系统设计，旨在通过自动化创新流程提升设计效率。核心价值在于利用AI技术加速复杂系统的设计周期，减少人工干预，从而推动系统设计的自动化和智能化。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-30T10:57:59.928648+00:00"
+}

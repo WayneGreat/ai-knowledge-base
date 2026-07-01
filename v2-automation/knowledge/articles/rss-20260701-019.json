@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-019",
+  "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.31046",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:23:22.169038+00:00",
+  "collected_at": "2026-07-01T11:23:22.169038+00:00",
+  "summary": "该论文提出OpenLife框架，利用自主LLM代理在开放世界中模拟人工生命，通过多代理协作和环境交互实现生命现象的涌现。核心价值在于将大语言模型应用于人工生命研究，探索智能体在动态环境中的自适应行为。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:24:35.809685+00:00"
+}

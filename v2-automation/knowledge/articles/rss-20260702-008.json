@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260702-008",
+  "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00155",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:40:10.572386+00:00",
+  "collected_at": "2026-07-02T10:40:10.572386+00:00",
+  "summary": "该论文提出了一种基于上下文赌博机（Contextual Bandit）的监督博弈框架，用于建模AI系统中存在双向信息不对称（即监督者和被监督者各自拥有私有信息）的交互场景。核心价值在于为设计更鲁棒的AI对齐机制提供了理论工具，通过博弈论分析最优监督策略。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-02T10:41:08.502428+00:00"
+}

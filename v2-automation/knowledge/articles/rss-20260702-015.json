@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-015",
+  "title": "PHREEQC-MCQ-200: A Diagnostic Benchmark for Tool-Augmented Scientific Simulator Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00436",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:40:10.572425+00:00",
+  "collected_at": "2026-07-02T10:40:10.572425+00:00",
+  "summary": "该论文提出了PHREEQC-MCQ-200，一个用于评估工具增强型科学模拟器代理的诊断基准。它通过200道多选题测试代理在科学模拟中的工具使用能力，为相关研究提供了标准化评估方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:41:08.502452+00:00"
+}

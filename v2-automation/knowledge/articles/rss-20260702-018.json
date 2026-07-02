@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-018",
+  "title": "AI Native Games: A Survey and Roadmap",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00527",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:40:10.572438+00:00",
+  "collected_at": "2026-07-02T10:40:10.572438+00:00",
+  "summary": "该论文对AI原生游戏进行了全面综述，提出了一个技术路线图，系统梳理了AI在游戏设计、开发与体验中的核心应用与未来方向。其价值在于为研究者与开发者提供了清晰的分类框架与前沿洞察。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:41:08.502461+00:00"
+}

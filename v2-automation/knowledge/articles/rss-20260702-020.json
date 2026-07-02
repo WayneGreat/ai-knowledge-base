@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-020",
+  "title": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00627",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:40:10.572449+00:00",
+  "collected_at": "2026-07-02T10:40:10.572449+00:00",
+  "summary": "该论文提出将AGI迷宫作为评估世界建模智能体的基准框架，通过迷宫环境测试智能体对物理规则和因果关系的理解能力。其核心价值在于为通用人工智能研究提供可量化的评估标准，推动世界建模能力的发展。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-02T10:41:08.502467+00:00"
+}

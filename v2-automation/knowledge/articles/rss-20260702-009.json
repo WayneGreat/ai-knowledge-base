@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-009",
+  "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00211",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:40:10.572393+00:00",
+  "collected_at": "2026-07-02T10:40:10.572393+00:00",
+  "summary": "该论文提出了一种检测学生与AI协作编程中认知目标和过程的方法，旨在构建认知AI素养。通过分析学生与AI的交互数据，识别其认知意图和策略，为教育领域提供评估和提升AI素养的工具。核心价值在于将认知科学原理应用于AI教育，实现对学生AI协作能力的量化分析。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:41:08.502430+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-012",
+  "title": "The Agentic Garden of Forking Paths",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01507",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:35:16.215272+00:00",
+  "collected_at": "2026-07-03T10:35:16.215272+00:00",
+  "summary": "该论文探讨了在AI代理系统中，决策路径的分叉与选择问题，提出了一个框架来管理代理在复杂任务中的路径规划与优化。其核心价值在于为多步推理和动态决策提供了理论支持，有助于提升代理系统的自主性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:36:39.080108+00:00"
+}

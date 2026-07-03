@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260703-004",
+  "title": "The Wiola Architecture for Efficient Small Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01394",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:35:16.215221+00:00",
+  "collected_at": "2026-07-03T10:35:16.215221+00:00",
+  "summary": "该论文提出了一种名为Wiola的高效小型语言模型架构，旨在通过创新的设计在保持低计算成本的同时提升模型性能。其核心价值在于为资源受限场景（如边缘设备）提供了一种实用的轻量级语言模型解决方案。",
+  "score": 7,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:36:39.080079+00:00"
+}

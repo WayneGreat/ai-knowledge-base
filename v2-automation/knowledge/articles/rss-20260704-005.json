@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-005",
+  "title": "Why Specialization Is Inevitable",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-04T10:09:27.427624+00:00",
+  "collected_at": "2026-07-04T10:09:27.427624+00:00",
+  "summary": "该文章探讨了AI技术发展中专业化分工的必然趋势，分析了为何通用模型会逐渐被细分领域的专用解决方案所补充甚至替代。核心价值在于帮助读者理解AI产业生态的演进方向，为技术选型和职业规划提供参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T10:10:45.537141+00:00"
+}

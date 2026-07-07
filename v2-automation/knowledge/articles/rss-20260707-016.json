@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260707-016",
+  "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03025",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:55:48.163895+00:00",
+  "collected_at": "2026-07-07T10:55:48.163895+00:00",
+  "summary": "该论文提出了一种以人为中心的反思性架构，旨在提升人类与AI在协作决策中的交互质量。核心价值在于通过反思机制让AI更好地理解人类意图，从而做出更符合人类期望的决策。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:56:59.831271+00:00"
+}

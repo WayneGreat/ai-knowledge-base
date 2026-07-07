@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260707-002",
+  "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-07T10:55:47.362848+00:00",
+  "collected_at": "2026-07-07T10:55:47.362848+00:00",
+  "summary": "AMD推出Ryzen AI Halo开发者套件，定价4000美元，旨在为AI开发提供高性能硬件平台。该套件集成了强大的CPU、GPU和AI加速器，支持本地AI推理和模型训练，适合需要高算力的开发场景。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:56:59.831217+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-005",
+  "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02686",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:55:48.163826+00:00",
+  "collected_at": "2026-07-07T10:55:48.163826+00:00",
+  "summary": "该论文提出了一种在部分可观测环境下，通过不确定性门控机制决定何时向LLM请求帮助的方法。核心价值在于提升了LLM在信息不完整场景下的决策效率和准确性，为智能体系统的鲁棒性提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:56:59.831230+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-018",
+  "title": "APeB: Benchmarking Personalization Ability of Large Language Model Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03162",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:55:48.163904+00:00",
+  "collected_at": "2026-07-07T10:55:48.163904+00:00",
+  "summary": "该论文提出了APeB基准，用于评估大型语言模型代理的个性化能力。核心价值在于系统性地衡量LLM代理在理解用户偏好并调整行为方面的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:56:59.831278+00:00"
+}

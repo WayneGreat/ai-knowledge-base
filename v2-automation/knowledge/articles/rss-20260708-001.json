@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-001",
+  "title": "We charge $10k a week to delete AI-generated code",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://odra.dev/slopfix/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-08T10:18:07.867505+00:00",
+  "collected_at": "2026-07-08T10:18:07.867505+00:00",
+  "summary": "该内容讨论了一项服务，每周收费1万美元来删除AI生成的代码，反映了企业对AI生成代码质量和管理需求的增长。核心价值在于提供专业清理服务，解决AI代码的维护和合规问题。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:19:26.388319+00:00"
+}

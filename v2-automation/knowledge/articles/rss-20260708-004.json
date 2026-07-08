@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-004",
+  "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05456",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:18:08.693078+00:00",
+  "collected_at": "2026-07-08T10:18:08.693078+00:00",
+  "summary": "该论文提出了一种名为Prompt-to-Paper的智能体AI系统，专为生物信息学设计，能够将自然语言提示转化为完整的科学论文草稿。系统通过集成大型语言模型、知识检索和自动化工作流，显著加速了生物信息学研究的文献撰写过程。其核心价值在于降低了非专业用户生成高质量科学文档的门槛，并提高了研究效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:19:26.388336+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260709-020",
+  "title": "Agentic Data Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:54:30.451110+00:00",
+  "collected_at": "2026-07-09T10:54:30.451110+00:00",
+  "summary": "该内容介绍了Agentic Data Environments，一种将数据环境与智能代理相结合的方法，旨在提升数据处理的自主性和效率。其核心价值在于通过代理机制实现数据环境的动态管理和优化，适用于复杂数据任务。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:55:43.127219+00:00"
+}

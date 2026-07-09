@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-003",
+  "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06624",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:54:30.451012+00:00",
+  "collected_at": "2026-07-09T10:54:30.451012+00:00",
+  "summary": "AgentLens 提出了一种基于生产环境评估的轨迹审查方法，用于评估编码智能体的性能。该方法通过分析智能体在真实任务中的行为轨迹，提供更准确的评估指标，有助于改进编码智能体的设计和优化。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:55:43.127176+00:00"
+}

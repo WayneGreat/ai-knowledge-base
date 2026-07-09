@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260709-013",
+  "title": "Measuring Intelligence Beyond Human Scale",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07040",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:54:30.451088+00:00",
+  "collected_at": "2026-07-09T10:54:30.451088+00:00",
+  "summary": "该论文探讨了如何衡量超越人类水平的智能，提出了一种新的评估框架。其核心价值在于为AI系统在超人类能力范围内的性能提供量化指标。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-09T10:55:43.127203+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-008",
+  "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06820",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:54:30.451071+00:00",
+  "collected_at": "2026-07-09T10:54:30.451071+00:00",
+  "summary": "该论文探讨了如何将SageMath数学软件系统与大型语言模型（LLM）代理相结合，以增强其在计算和实验数学任务中的能力。核心价值在于提出了一种新的方法，通过让LLM代理利用SageMath的符号计算和数值分析功能，来提升数学推理和问题解决的准确性与可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:55:43.127189+00:00"
+}

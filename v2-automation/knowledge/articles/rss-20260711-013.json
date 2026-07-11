@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-013",
+  "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07858",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:37:25.356162+00:00",
+  "collected_at": "2026-07-11T09:37:25.356162+00:00",
+  "summary": "该内容探讨了在直通式核保流程中，结合智能体AI与检索增强模型的应用。核心价值在于通过自动化决策和实时数据检索，提升核保效率与准确性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:38:38.774557+00:00"
+}

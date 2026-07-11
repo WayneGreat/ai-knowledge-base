@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-011",
+  "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07846",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:37:25.356153+00:00",
+  "collected_at": "2026-07-11T09:37:25.356153+00:00",
+  "summary": "VectorizationLLM 是一个基于向量化技术的 AI 助手，旨在通过智能向量化提升数据处理和检索效率。该技术利用大语言模型实现高效的向量表示，适用于知识管理和智能问答场景。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:38:38.774550+00:00"
+}

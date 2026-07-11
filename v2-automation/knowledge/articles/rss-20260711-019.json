@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-019",
+  "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:37:25.356190+00:00",
+  "collected_at": "2026-07-11T09:37:25.356190+00:00",
+  "summary": "该论文提出了一种名为“具体化命题提示”的方法，旨在解决大型语言模型在组合知识与事实知识之间的二元困境。通过将抽象命题转化为具体实例，该方法显著提升了模型在需要组合推理的任务上的表现。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:38:38.774575+00:00"
+}

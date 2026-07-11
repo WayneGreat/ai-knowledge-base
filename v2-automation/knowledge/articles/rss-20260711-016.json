@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-016",
+  "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07916",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:37:25.356177+00:00",
+  "collected_at": "2026-07-11T09:37:25.356177+00:00",
+  "summary": "该论文提出了一种名为“Persona Cartography”的方法，通过分析语言模型权重空间中的特征来映射和量化其人格特质。其核心价值在于提供了一种新的视角，将模型行为与内部参数关联，有助于理解和控制模型输出的一致性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-11T09:38:38.774566+00:00"
+}

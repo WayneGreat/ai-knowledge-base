@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260713-010",
+  "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08986",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T11:10:44.857151+00:00",
+  "collected_at": "2026-07-13T11:10:44.857151+00:00",
+  "summary": "该论文提出了一种利用AI辅助的Lean形式化方法来推导Vlasov方程的均值场近似，将形式化证明过程建模为策略游戏。核心价值在于展示了如何将复杂的数学物理推导转化为AI可处理的游戏化任务，为AI辅助数学证明提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:12:01.569283+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-013",
+  "title": "Feedback-Coupled Memory Systems in Continuous Time",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09714",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:58:05.751992+00:00",
+  "collected_at": "2026-07-14T09:58:05.751992+00:00",
+  "summary": "该论文提出了一种在连续时间框架下实现反馈耦合记忆系统的理论模型，旨在模拟生物记忆的动态交互机制。其核心价值在于为构建更接近生物神经网络的AI记忆架构提供了数学基础，可能推动长期记忆与工作记忆的融合研究。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-14T09:59:07.751668+00:00"
+}

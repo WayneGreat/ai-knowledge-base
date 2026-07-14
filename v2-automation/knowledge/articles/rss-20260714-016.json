@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-016",
+  "title": "A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09740",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:58:05.752005+00:00",
+  "collected_at": "2026-07-14T09:58:05.752005+00:00",
+  "summary": "该论文提出了一种动态场景交互推理框架，用于多交互车辆场景下的车道变换意图和轨迹预测。通过建模车辆间的动态交互关系，该框架提升了预测的准确性和鲁棒性，对自动驾驶系统的决策规划具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:59:07.751678+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-019",
+  "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13501",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:07:57.814101+00:00",
+  "collected_at": "2026-07-16T10:07:57.814101+00:00",
+  "summary": "该论文提出LAPO方法，通过留一回合归因机制为多轮搜索推理中的自生成过程提供奖励信号，旨在提升模型在多步推理中的自我评估与优化能力。其核心价值在于解决多轮交互中奖励稀疏和信用分配问题，增强搜索推理的鲁棒性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:08:54.851799+00:00"
+}

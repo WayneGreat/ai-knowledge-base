@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-003",
+  "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13037",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:07:57.813976+00:00",
+  "collected_at": "2026-07-16T10:07:57.813976+00:00",
+  "summary": "该论文提出了一种名为OriginBlame的方法，用于在记录和令牌级别追溯AI训练数据集的来源，从而增强数据透明度和可信度。其核心价值在于为训练数据提供细粒度的溯源能力，有助于识别数据偏差和版权问题。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:08:54.851726+00:00"
+}

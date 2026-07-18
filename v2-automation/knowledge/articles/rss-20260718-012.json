@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260718-012",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:25:00.637354+00:00",
+  "collected_at": "2026-07-18T09:25:00.637354+00:00",
+  "summary": "Thinking Machines 发布了 Inkling，一个用于构建和部署 AI 代理的框架。它简化了代理的创建、测试和集成过程，旨在提高开发效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:26:09.940350+00:00"
+}

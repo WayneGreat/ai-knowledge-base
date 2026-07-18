@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260718-011",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:25:00.637349+00:00",
+  "collected_at": "2026-07-18T09:25:00.637349+00:00",
+  "summary": "本文探讨了模型路由（Model Routing）的概念，即根据任务需求动态选择最合适的AI模型，以优化性能和成本。文章指出，虽然模型路由看似简单，但在实际应用中面临模型多样性、任务复杂性及实时决策等挑战，需要精细的评估和策略设计。核心价值在于为多模型部署提供了一种高效的管理思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:26:09.940347+00:00"
+}

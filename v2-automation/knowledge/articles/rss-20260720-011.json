@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-011",
+  "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15388",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:51:45.585011+00:00",
+  "collected_at": "2026-07-20T10:51:45.585011+00:00",
+  "summary": "该论文研究了多智能体数学推理中，审稿人（reviewer）的精确性（precision）与批评采纳率（critique uptake）之间的关系。研究发现，即使审稿人给出的批评非常精确，被审稿的智能体也未必会采纳这些批评，揭示了多智能体协作中反馈采纳的复杂性和挑战。该工作为改进多智能体系统的协作机制提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:52:58.483417+00:00"
+}

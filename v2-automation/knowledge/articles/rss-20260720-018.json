@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-018",
+  "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15550",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:51:45.585044+00:00",
+  "collected_at": "2026-07-20T10:51:45.585044+00:00",
+  "summary": "SeerGuard 提出了一种基于世界模型预测的安全框架，用于移动 GUI 代理，旨在通过预测潜在风险来增强代理的安全性。该框架通过世界模型模拟代理行为后果，从而在行动前识别并阻止不安全操作，提升了移动 GUI 代理的可靠性和安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:52:58.483443+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-003",
+  "title": "China’s open-weights AI strategy is winning",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-21T10:24:37.577647+00:00",
+  "collected_at": "2026-07-21T10:24:37.577647+00:00",
+  "summary": "文章探讨了中国在开放权重AI模型领域的战略优势，指出通过开源模型（如DeepSeek等）的快速迭代和广泛应用，中国正在全球AI生态中占据重要地位。该策略降低了技术门槛，促进了创新，并可能改变全球AI竞争格局。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:48.883517+00:00"
+}

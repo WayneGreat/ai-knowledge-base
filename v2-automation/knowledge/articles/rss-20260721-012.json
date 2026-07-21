@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-012",
+  "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16201",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:38.410456+00:00",
+  "collected_at": "2026-07-21T10:24:38.410456+00:00",
+  "summary": "该论文提出了一种利用大型语言模型从文档语料库中自动发现领域无关的本体模式的方法，即生成式本体归纳。其核心价值在于无需领域专家干预即可从非结构化文本中提取结构化知识，为知识图谱构建和语义理解提供了高效的新途径。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "rag"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:48.883540+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-009",
+  "title": "SAAG: Structured Agent Assessment and Grounding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18245",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:24:47.125690+00:00",
+  "collected_at": "2026-07-22T10:24:47.125690+00:00",
+  "summary": "SAAG 提出了一种结构化智能体评估与接地框架，旨在通过系统化方法评估和提升AI智能体的性能与可靠性。该技术通过引入结构化评估指标和接地机制，解决了智能体在复杂任务中的一致性和可解释性问题，为智能体系统的开发与部署提供了实用工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:25:54.288540+00:00"
+}

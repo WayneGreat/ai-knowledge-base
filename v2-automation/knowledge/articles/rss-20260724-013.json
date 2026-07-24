@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260724-013",
+  "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20469",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:16:27.572846+00:00",
+  "collected_at": "2026-07-24T10:16:27.572846+00:00",
+  "summary": "DecodeShare 提出了一种方法，用于追踪大型语言模型（LLM）在解码阶段决策中的共享子空间。该技术旨在分析不同解码路径之间的共同特征，从而提升对模型生成过程的理解和可控性。其核心价值在于为 LLM 的推理透明度和可解释性提供了新的分析工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:17:32.365365+00:00"
+}

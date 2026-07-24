@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-017",
+  "title": "Incomplete Prompt Jailbreaks in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20473",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:16:27.572864+00:00",
+  "collected_at": "2026-07-24T10:16:27.572864+00:00",
+  "summary": "该论文研究了大型语言模型中的不完整提示越狱攻击，揭示了通过部分提示绕过模型安全机制的新方法。核心价值在于识别了LLM安全防护中的漏洞，为提升模型鲁棒性提供了重要见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "prompt-engineering"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-24T10:17:32.365382+00:00"
+}

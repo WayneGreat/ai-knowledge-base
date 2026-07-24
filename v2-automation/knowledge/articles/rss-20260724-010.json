@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260724-010",
+  "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20466",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:16:27.572832+00:00",
+  "collected_at": "2026-07-24T10:16:27.572832+00:00",
+  "summary": "JAXBench 是一个用于基准测试 TPU 内核自动优化的框架，旨在评估和比较不同优化算法在 TPU 上的性能。该研究为 AI 硬件加速和自动调优领域提供了标准化的评估工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:17:32.365355+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260724-018",
+  "title": "VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20474",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:16:27.572869+00:00",
+  "collected_at": "2026-07-24T10:16:27.572869+00:00",
+  "summary": "该论文提出了一种名为VeriSimpl的方法，通过基于简化的验证技术，从自然语言描述中鲁棒地生成优化模型。其核心价值在于提高了自然语言到优化模型转换的准确性和可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:17:32.365385+00:00"
+}

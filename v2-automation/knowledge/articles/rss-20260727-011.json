@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260727-011",
+  "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:20:25.405639+00:00",
+  "collected_at": "2026-07-27T11:20:25.405639+00:00",
+  "summary": "该论文提出了一种名为“谱流证书”的新方法，用于解决图神经网络中深度传播时的过平滑和长程依赖问题。通过谱域分析，该方法能够保证深层图神经网络中的信息流保持深度感知能力，从而提升模型在长程传播任务上的性能。",
+  "score": 8,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T11:21:34.077748+00:00"
+}

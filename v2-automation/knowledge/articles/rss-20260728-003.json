@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-003",
+  "title": "AI companies are shredding rare books",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-28T10:34:31.908675+00:00",
+  "collected_at": "2026-07-28T10:34:31.908675+00:00",
+  "summary": "该内容报道了AI公司为获取训练数据而销毁稀有书籍的行为，揭示了AI训练数据获取中的伦理和法律问题。核心价值在于引发对数据来源合规性和文化遗产保护的讨论。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-28T10:35:40.129504+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-018",
+  "title": "HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24779",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:38:15.968797+00:00",
+  "collected_at": "2026-07-29T10:38:15.968797+00:00",
+  "summary": "该论文提出了一种名为HOBA的分层在线竞价智能体框架，用于自适应在线广告投放。通过将竞价决策分解为高层策略和低层执行，HOBA能够更有效地优化广告投放效果，提升竞价效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:39:29.438288+00:00"
+}

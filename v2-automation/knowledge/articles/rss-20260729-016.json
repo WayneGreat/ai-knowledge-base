@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260729-016",
+  "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24774",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:38:15.968788+00:00",
+  "collected_at": "2026-07-29T10:38:15.968788+00:00",
+  "summary": "该论文提出了一种结合大气扩散模型与时空变换器的核辐射预测方法，通过将物理扩散过程融入深度学习架构，提升了预测的准确性和可解释性。其核心价值在于为核安全监测提供了更可靠的AI驱动预测工具。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-29T10:39:29.438283+00:00"
+}

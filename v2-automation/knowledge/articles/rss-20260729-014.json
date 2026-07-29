@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-014",
+  "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24772",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:38:15.968779+00:00",
+  "collected_at": "2026-07-29T10:38:15.968779+00:00",
+  "summary": "本文提出RSMeM，一种知识增强的记忆演化框架，用于提升遥感智能体的性能，并引入系统评估方法。该工作通过动态记忆机制优化智能体在遥感任务中的决策能力，具有重要的应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:39:29.438277+00:00"
+}

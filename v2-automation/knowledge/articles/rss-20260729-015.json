@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260729-015",
+  "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24773",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:38:15.968784+00:00",
+  "collected_at": "2026-07-29T10:38:15.968784+00:00",
+  "summary": "该论文提出了一种基于共形预测（Conformal Prediction）的云工作负载右尺寸调整推荐方法，用于数据中心虚拟机资源优化。核心价值在于通过不确定性量化提供可靠的资源调整建议，提升数据中心运营效率。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:39:29.438280+00:00"
+}

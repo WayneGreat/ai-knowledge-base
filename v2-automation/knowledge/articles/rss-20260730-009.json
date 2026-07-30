@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-009",
+  "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26181",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:24:02.751983+00:00",
+  "collected_at": "2026-07-30T10:24:02.751983+00:00",
+  "summary": "本文提出GoGoTB，一种基于规范引导的覆盖率闭合方法，用于智能体RTL验证。该方法通过将验证目标与规范对齐，自动化地生成测试用例，从而提升验证效率与覆盖率。核心价值在于解决了传统RTL验证中覆盖率难以闭合的问题，显著降低了人工调试成本。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:25:04.427111+00:00"
+}

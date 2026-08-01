@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-001",
+  "title": "qm – Multiplayer agent harness for work",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/yc-software/qm",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-01T09:58:48.762662+00:00",
+  "collected_at": "2026-08-01T09:58:48.762662+00:00",
+  "summary": "qm 是一个用于工作场景的多智能体协调框架，旨在通过标准化协议简化多个 AI 代理的部署与协作。其核心价值在于提供可扩展的运行时环境，支持任务分配、状态同步与工具调用，从而提升复杂工作流的自动化效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T10:00:24.942956+00:00"
+}

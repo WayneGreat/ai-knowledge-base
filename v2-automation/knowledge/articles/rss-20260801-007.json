@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-007",
+  "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-01T09:59:09.834812+00:00",
+  "collected_at": "2026-08-01T09:59:09.834812+00:00",
+  "summary": "OlmoEarth 平台旨在实现行星尺度的地理空间推理，通过整合大规模地理空间数据与先进的人工智能模型，提供高效、可扩展的推理能力。该平台的核心价值在于解决地理空间数据分析中的规模与精度挑战，为环境监测、城市规划等领域提供技术支持。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T10:00:24.942981+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260802-005",
+  "title": "Is AI reasoning right for the wrong reasons?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-02T09:56:13.941455+00:00",
+  "collected_at": "2026-08-02T09:56:13.941455+00:00",
+  "summary": "本文探讨了AI推理模型在解决问题时可能基于错误原因得出正确结论的现象，分析了其推理过程的可靠性与局限性。文章通过案例和实验揭示了模型推理中的潜在偏差，为评估和改进AI推理能力提供了重要视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:57:25.713839+00:00"
+}

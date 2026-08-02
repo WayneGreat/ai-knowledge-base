@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-003",
+  "title": "Flint: A Visualization Language for the AI Era",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://microsoft.github.io/flint-chart/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-02T09:56:13.941445+00:00",
+  "collected_at": "2026-08-02T09:56:13.941445+00:00",
+  "summary": "Flint 是一种专为 AI 时代设计的可视化语言，旨在简化复杂数据的可视化表达，提升 AI 生成图表的可读性和交互性。该语言通过声明式语法和智能默认设置，降低了数据可视化的门槛，使开发者能更高效地构建动态、可交互的可视化应用。其核心价值在于弥合自然语言与可视化之间的鸿沟，为 AI 驱动的数据分析提供更直观的接口。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "vision",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:57:25.713836+00:00"
+}

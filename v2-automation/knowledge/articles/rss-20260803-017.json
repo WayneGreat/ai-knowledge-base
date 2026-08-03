@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-017",
+  "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28788",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:22:26.728720+00:00",
+  "collected_at": "2026-08-03T11:22:26.728720+00:00",
+  "summary": "EarlyDx 是一个以入院为锚点的基准测试，用于评估 AI 模型在急诊科（ED）场景中生成有证据支持的开放性诊断的能力。该基准填补了现有医疗 AI 评估中缺乏真实世界、开放性诊断生成任务的空白，为临床决策支持系统的开发提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:23:44.129253+00:00"
+}

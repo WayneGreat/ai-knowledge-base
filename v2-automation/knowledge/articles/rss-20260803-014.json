@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-014",
+  "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28684",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:22:26.728707+00:00",
+  "collected_at": "2026-08-03T11:22:26.728707+00:00",
+  "summary": "本文探讨了LSR-Synth中库可达性的概念，分析了反记忆设计如何影响符号发现任务的测量结果。该研究为评估AI系统的符号推理能力提供了新的视角，有助于理解模型在避免记忆训练数据时的行为变化。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:23:44.129245+00:00"
+}

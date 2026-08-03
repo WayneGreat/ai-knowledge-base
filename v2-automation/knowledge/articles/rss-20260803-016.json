@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-016",
+  "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28692",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:22:26.728716+00:00",
+  "collected_at": "2026-08-03T11:22:26.728716+00:00",
+  "summary": "该论文提出了一种名为SciToolAgent-Evo的自进化智能体，它利用本体感知能力在开放世界中自动获取和运用科学工具。其核心价值在于通过本体知识增强智能体对工具的理解和选择，并实现自我进化以适应新任务，从而提升科学研究的自动化水平。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:23:44.129250+00:00"
+}

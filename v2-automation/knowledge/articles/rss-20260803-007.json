@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-007",
+  "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28657",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:22:26.728670+00:00",
+  "collected_at": "2026-08-03T11:22:26.728670+00:00",
+  "summary": "TAPR 提出了一种任务感知的提示词重写器，通过根据具体任务动态优化输入提示，显著提升大语言模型的性能。该方法为提示工程提供了自动化改进方案，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:23:44.129217+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-017",
+  "title": "H+ Embedding: Harmonizing Global and Token-Level Retrieval with Context-Dependent Phrases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00065",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:38:36.251625+00:00",
+  "collected_at": "2026-08-04T10:38:36.251625+00:00",
+  "summary": "该论文提出H+ Embedding方法，通过上下文相关短语统一全局和令牌级检索，增强了检索系统对细粒度语义的理解。该方法在多个基准测试中表现出色，为信息检索领域提供了新的技术路径。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:39:42.526734+00:00"
+}

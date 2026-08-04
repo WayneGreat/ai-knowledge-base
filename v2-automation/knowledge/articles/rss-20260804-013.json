@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-013",
+  "title": "Nova: An End-to-End MLIR Compiler for Deep Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00029",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:38:36.251608+00:00",
+  "collected_at": "2026-08-04T10:38:36.251608+00:00",
+  "summary": "Nova 是一个基于 MLIR 的端到端深度学习编译器，旨在优化深度学习模型的编译和部署效率。该编译器通过 MLIR 的中间表示层实现多级优化，支持多种硬件后端，提升了模型执行的性能和可移植性。其核心价值在于为深度学习提供统一的编译基础设施，简化了从模型定义到高效执行的流程。",
+  "score": 8,
+  "tags": [
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T10:39:42.526722+00:00"
+}

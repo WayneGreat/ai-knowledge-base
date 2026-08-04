@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-020",
+  "title": "Shared Organizational Memory for Enterprise Coding Agents: System Design and Deployment Snapshot",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00122",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:38:36.251638+00:00",
+  "collected_at": "2026-08-04T10:38:36.251638+00:00",
+  "summary": "本文介绍了为编程智能体设计的共享组织记忆系统，该系统通过集中存储和检索团队知识来增强代码生成与维护能力。文章详述了系统架构、部署快照及实际应用效果，展示了如何利用组织级记忆提升智能体在复杂软件开发任务中的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:39:42.526743+00:00"
+}

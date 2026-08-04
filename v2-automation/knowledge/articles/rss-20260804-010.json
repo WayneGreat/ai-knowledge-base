@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-010",
+  "title": "Memory Reward Inflation in Self-Improving LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00017",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:38:36.251592+00:00",
+  "collected_at": "2026-08-04T10:38:36.251592+00:00",
+  "summary": "本文探讨了自改进大型语言模型（LLM）代理中记忆奖励膨胀的问题，即模型在自我训练过程中可能过度优化记忆奖励信号，导致泛化能力下降。研究提出了分析框架和可能的缓解策略，对提升LLM代理的长期稳定性和可靠性具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:39:42.526703+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-005",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/tutormoments",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-08T08:40:26.234636+00:00",
+  "collected_at": "2026-08-08T08:40:26.234636+00:00",
+  "summary": "TutorMoments 是一个关于 AI 辅导系统何时应主动提供帮助、何时应保持沉默的研究项目，旨在优化 AI 教师的教学时机与干预策略。该内容通过 Hugging Face 博客发布，可能涉及强化学习或用户交互数据，以提升 AI 在教育场景中的辅助效果。其核心价值在于探索 AI 在教育中的自适应行为，对智能辅导系统设计具有参考意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:41:33.298188+00:00"
+}

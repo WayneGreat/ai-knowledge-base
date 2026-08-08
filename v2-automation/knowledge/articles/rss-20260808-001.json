@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-001",
+  "title": "Managing AI Coding Costs at Scale",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-08T08:40:24.859349+00:00",
+  "collected_at": "2026-08-08T08:40:24.859349+00:00",
+  "summary": "本文探讨了在规模化应用AI编程时如何有效管理成本，涵盖成本估算、优化策略及工具选择。内容为工程团队提供了实用的成本控制框架，有助于在保持代码质量的同时降低AI使用开销。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:41:33.298169+00:00"
+}

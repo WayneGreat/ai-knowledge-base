@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-018",
+  "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06694",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:20:02.018619+00:00",
+  "collected_at": "2026-08-10T09:20:02.018619+00:00",
+  "summary": "该论文提出了一种基于多智能体框架的自动化粗粒化分子动力学模拟方法，用于聚合物研究。该框架通过智能体协作简化了模拟流程，提高了建模效率和准确性，为材料科学中的复杂分子模拟提供了新的自动化解决方案。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:21:17.906179+00:00"
+}

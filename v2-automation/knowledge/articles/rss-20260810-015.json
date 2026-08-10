@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-015",
+  "title": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06657",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:20:02.018606+00:00",
+  "collected_at": "2026-08-10T09:20:02.018606+00:00",
+  "summary": "TRACE 提出了一个多层次的基准测试框架，用于评估人类与 AI 控制器在系统漂移和故障情况下的协调能力。该基准通过模拟动态环境中的控制任务，量化了 AI 辅助决策的鲁棒性和人类-AI 协作效率，为设计更可靠的协同控制系统提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:21:17.906170+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-001",
+  "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06394",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:20:02.018494+00:00",
+  "collected_at": "2026-08-10T09:20:02.018494+00:00",
+  "summary": "本文提出了一种面向多标签图基础模型的新方法，从单向量表示学习转向多语义基学习，旨在提升图模型对复杂多标签场景的表达能力。该研究为图神经网络在多样语义任务中的应用提供了新的理论基础和实践方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:21:17.906105+00:00"
+}

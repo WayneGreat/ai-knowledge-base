@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-016",
+  "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07533",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:54:54.934212+00:00",
+  "collected_at": "2026-08-11T08:54:54.934212+00:00",
+  "summary": "MetaSpace 提出了一种针对具身智能体空间认知能力的元测试方法，通过系统性地生成空间变换测试用例来评估智能体的空间推理鲁棒性。该方法填补了具身智能体空间认知评估的空白，为提升智能体在复杂环境中的空间理解能力提供了重要工具。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:55:57.243149+00:00"
+}

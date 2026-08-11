@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-012",
+  "title": "Training Variable Long Sequences with Data-Centric Parallel",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07524",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:54:54.934191+00:00",
+  "collected_at": "2026-08-11T08:54:54.934191+00:00",
+  "summary": "本文提出了一种名为 Data-Centric Parallel 的方法，用于高效训练可变长度序列，通过数据中心的并行策略优化长序列训练的计算和内存效率。该方法可能对处理长上下文或高分辨率输入等场景具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:55:57.243137+00:00"
+}

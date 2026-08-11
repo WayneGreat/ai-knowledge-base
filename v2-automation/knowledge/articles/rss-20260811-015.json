@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-015",
+  "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07532",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:54:54.934208+00:00",
+  "collected_at": "2026-08-11T08:54:54.934208+00:00",
+  "summary": "该论文提出了一种在基于技能的Agentic AI系统中动态形成联盟并制定通信定价的机制，旨在优化多智能体协作效率与资源分配。核心价值在于通过经济学定价策略平衡通信成本与任务执行质量，为复杂AI系统的可扩展协作提供了新思路。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:55:57.243147+00:00"
+}

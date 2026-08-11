@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-005",
+  "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-11T08:54:54.100001+00:00",
+  "collected_at": "2026-08-11T08:54:54.100001+00:00",
+  "summary": "Muse Glimmer 是一个拥有 300 亿参数的模型，专为始终在线的本地代理工作流优化，旨在提升本地 AI 代理的效率和响应速度。该模型强调在资源受限环境下实现高性能，为本地化 AI 应用提供了新的可能性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:55:57.243112+00:00"
+}

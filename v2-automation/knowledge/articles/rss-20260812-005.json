@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260812-005",
+  "title": "How Claude marks AI-generated content",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-12T09:10:51.660531+00:00",
+  "collected_at": "2026-08-12T09:10:51.660531+00:00",
+  "summary": "Claude 通过水印技术标记 AI 生成的内容，以增强内容透明度和可追溯性。该技术利用统计模式嵌入不可见标记，帮助识别 AI 生成文本，对内容审核和防伪有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:11:56.921605+00:00"
+}
